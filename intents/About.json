@@ -1,0 +1,28 @@
+{
+  "id": "29c88c51-fbf2-4cd3-991c-1069bf61b06e",
+  "name": "About",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This website was created to aid campus placement and queries of students related to it. It also provides with the mock test for students appearing for aptitude examination."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520867487,
+  "fallbackIntent": false,
+  "events": []
+}

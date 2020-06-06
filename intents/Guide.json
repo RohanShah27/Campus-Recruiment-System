@@ -1,0 +1,28 @@
+{
+  "id": "c133fff6-3e1f-4300-b3ef-6970ffad0528",
+  "name": "Guide",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A.P.SHAH INSTITUTE OF TECHNOLOGY is located in Kasarvadavali, opp.Hyper city mall,Thane(west) -400607.\nBus facilities and fare auto  are available  from Thane station, Borivali station and Mira road"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520866551,
+  "fallbackIntent": false,
+  "events": []
+}

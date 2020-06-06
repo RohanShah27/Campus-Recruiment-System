@@ -1,0 +1,28 @@
+{
+  "id": "59cb4ab4-415a-4988-9bd4-216f35ae0693",
+  "name": "Resume",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Demo Resume  is available in the news \u0026 feed section."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520876329,
+  "fallbackIntent": false,
+  "events": []
+}

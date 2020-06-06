@@ -1,0 +1,28 @@
+{
+  "id": "31271079-13d0-4860-bdd3-531bc590addf",
+  "name": "Developed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I don\u0027t really have family! But  consider Dumbheads as my family."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520865624,
+  "fallbackIntent": false,
+  "events": []
+}
